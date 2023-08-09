@@ -1,4 +1,6 @@
 # Culturama
+
+**Nesse treinamento pude entender um pouco so flexbox e grid particando um sobre:**
 * Organizar elementos com display flex;
 * Entendeu qual o eixo padrão dos itens flex;
 * Aprendeu como organizar grupos de itens na horizontal e vertical;
@@ -9,3 +11,7 @@
 * Alterar eixos com a propriedade flex-direction;
 * Organizar conjuntos de itens em um container com a propriedade flex-grow;
 * Unir propriedades do flexbox em conjunto de media query para obter o resultado de layouts responsivos.
+* Criar linhas e colunas em um Layout, calculando as alturas e larguras;
+* Posicionar itens por meio da criação de um template com áreas do Grid;
+* Utilizar a unidade de medida fr;
+* Utilizar a função do css repeat().
